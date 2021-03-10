@@ -1,5 +1,5 @@
 # AlchemIA
-A Python algorithm that detects some saturated hydrocarbons from a sketch
+InChI Saturated Aliphatic Hydrocarbon Identifier.
 
 Preparing files for commit.
 
